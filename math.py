@@ -2,7 +2,7 @@
 def add(x,y):
     return x+y   
 
-#eurvurviegvieb
+#eurvurviegvmaindibey
 def subtract(x,y):
     return x-y          
     
